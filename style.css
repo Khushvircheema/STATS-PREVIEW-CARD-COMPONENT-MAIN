@@ -70,7 +70,6 @@ img, .image-color{
 }
 .image-color{
 background: hsl(277, 100%, 36%,0.5);
-filter:;
 height: 446px;
 width: 540px;
 z-index: 2;
